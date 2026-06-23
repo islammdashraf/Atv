@@ -1,0 +1,6 @@
+{
+  "name": "Vivid IPTV",
+  "description": "A high-performance Netflix-style dark themed live television IPTV player with local caching of channels, full-text live filters, stream category sliding chips, and responsive player layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
